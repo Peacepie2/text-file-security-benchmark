@@ -11,6 +11,7 @@ This project evaluates and compares:
 - AES-256-GCM
 - RSA-2048 Hybrid
 - ChaCha20-Poly1305
+- ECC-256-ECIES
 
 using text files of different sizes.
 
